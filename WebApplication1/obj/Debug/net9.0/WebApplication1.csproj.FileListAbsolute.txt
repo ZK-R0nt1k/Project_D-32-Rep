@@ -1,0 +1,80 @@
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\appsettings.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.exe
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.deps.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.runtimeconfig.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.pdb
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Zakhar\Desktop\Unity Server\WebApplication1\bin\Debug\net9.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\appsettings.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.staticwebassets.endpoints.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.exe
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.deps.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.runtimeconfig.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\WebApplication1.pdb
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Zakhar\Desktop\UnityServer\WebApplication1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
+C:\Users\Zakhar\Desktop\Project32\Project_D-32-Rep\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb

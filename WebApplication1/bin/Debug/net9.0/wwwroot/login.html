@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project D</title>
+</head>
+<body>
+    
+    <ul id="forecast"></ul>
+
+    <style>
+        html {
+            font-family: Times New Roman;
+            text-align: center;
+        }
+
+        .card {
+            background-color: #C0C0C0;
+            
+            box-shadow: 6px 6px 24px 1px rgb(0, 0, 0,100);
+            padding-top: 10px;
+            padding-bottom: 20px;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: #43c226;
+        }
+
+        .content {
+            padding: 100px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <div class="topnav">
+        <h1 >Login</h1>
+    </div>
+    <div class="content">
+        <div class="card">
+            <p>
+                <label for="login">Login</label>
+                <input type="text" id="login">
+
+            </p>
+
+            <p>
+                <label for="password">Password</label>
+                <input type="password" id="password">
+            </p>
+            <p><button id ="button">Login</button></p>
+        </div>
+    </div>
+
+    <script>
+        function initButton() {
+            document.getElementById("button").addEventListener("click", async () => {
+                const login = document.getElementById("login").value;
+                const password = document.getElementById("password").value;
+
+                // Отправляем POST-запрос на сервер
+                const response = await fetch("/api/login", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ login, password })
+                });
+
+                const result = await response.json();
+                alert(result.message); // покажем результат
+            });
+        }
+    initButton();
+    </script>
+</body>
+</html>
+
+<!--            const response = await fetch('/weather');
+            const data = await response.json();
+
+            const list = document.getElementById('forecast');
+            list.innerHTML = '';
+
+            data.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = `${item.date}: ${item.summary}, ${item.temperatureC} C (${item.temperatureF} F)`;
+                list.appendChild(li);
+            });
+        }
+
+        loadWeather(); -->

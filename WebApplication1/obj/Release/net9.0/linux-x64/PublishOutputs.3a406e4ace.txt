@@ -1,0 +1,9 @@
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\WebApplication1
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\appsettings.Development.json
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\appsettings.json
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\WebApplication1.dll
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\WebApplication1.deps.json
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\WebApplication1.runtimeconfig.json
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\WebApplication1.pdb
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zakhar\Desktop\UnityServer\publish-linux\Microsoft.OpenApi.dll
