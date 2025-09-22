@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zakhar\\Desktop\\UnityServer\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Zakhar\\Desktop\\Project32\\Project_D-32-Rep\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zakhar\\Desktop\\UnityServer\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Zakhar\\Desktop\\Project32\\Project_D-32-Rep\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zakhar\\Desktop\\UnityServer\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Zakhar\\Desktop\\Project32\\Project_D-32-Rep\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Zakhar\\Desktop\\UnityServer\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Zakhar\\Desktop\\Project32\\Project_D-32-Rep\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Zakhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zakhar\\Desktop\\UnityServer\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Zakhar\\Desktop\\Project32\\Project_D-32-Rep\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,20 +71,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[9.0.6, 9.0.6]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[9.0.6, 9.0.6]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[9.0.6, 9.0.6]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -94,11 +80,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
